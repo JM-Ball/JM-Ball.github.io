@@ -9,11 +9,15 @@ then chose an apporpriate location for the clone.
 
 ## My Interests:
 * Reading
+  
  Particularly: fictional sci-fi, fantasy, thriller, or mystery
 * Wine
+  
   Prefered reds: Red Blend, Grenache, and maybe Pinot Noir.
+  
   Prefered white: Riesling, Chardonnay, and maybe a Viognier.
 * Movies
+  
   Similar to the books, a great murder mystery or thriller never fails.
 
 ## Recommended Wesites
