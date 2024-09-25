@@ -1,8 +1,8 @@
 ## Mermaid Diagram 
 ### _CHOOSE YOUR OWN ADVENTURE!_
 
-'''mermaid
-flowchart TD;
+```mermaid
+    flowchart TD
     A(You awaken in a tunnel, unaware how you got there.) -->|Go left.| B([You enter a room with two doors.])
     A -->|Go right.| C([You enter a room with a sleeping goblin.])
     B -->|Door #1| D[You are attacked by a venomous spider and die.]
@@ -15,4 +15,4 @@ flowchart TD;
     J -->|Consume the potion|K[You die from poison.]
     J -->|Eat the sandwich| L[You begin choking, waking up a sleeping goblin that attacks you. Killing you.]
     J -->|Continue to search| M[You come across a hidden cellar door leading to the outside.]
-'''
+```
