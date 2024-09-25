@@ -5,7 +5,7 @@
 4. After downloading the desktop version of GitHub, I clicked "Clone  repository". Selected the file I wanted to clone
 then chose an apporpriate location for the clone.
 
-#**About Me**
+# **About Me**
 
 ## My Interests:
 * Reading
